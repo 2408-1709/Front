@@ -1,0 +1,243 @@
+{
+  "users": [
+    {
+      "username": "vikassingh",
+      "email": "vikasshekhawat7778@gmail.com",
+      "contact": "08769162408",
+      "id": "ebc5"
+    },
+    {
+      "id": "ebc51",
+      "username": "Sahil yadav",
+      "email": "Sahil-yadav787@gmail.com",
+      "contact": "8769192408",
+      "password": "1234"
+    },
+    {
+      "id": "ebc51",
+      "username": "Deepak Rathore",
+      "email": "deepak-rathore@gmail.com",
+      "contact": "8769192408",
+      "password": "1234"
+    },
+    {
+      "id": "abea",
+      "username": "vikas",
+      "email": "sad@gmail.com",
+      "contact": "8769192408",
+      "password": "1234"
+    },
+    {
+      "id": "4e1e",
+      "username": "adminportal",
+      "email": "sd12@gmail.com",
+      "contact": "8769192408",
+      "password": "1"
+    },
+    {
+      "id": "c8e1",
+      "username": "Ajay Rathore",
+      "email": "ajay@gmail.com",
+      "contact": "9928355305",
+      "password": "1234"
+    },
+    {
+      "id": "f217",
+      "username": "vikassingh",
+      "email": "vikasshekhawat7778@gmail.com",
+      "contact": "8769162408",
+      "password": "Vikas@1709"
+    },
+    {
+      "id": "e12d",
+      "username": "Praveen Naruka",
+      "email": "praveen@gmail.com",
+      "contact": "7534908225",
+      "password": "Praveen@123"
+    }
+  ],
+  "Adminpanel": [
+    {
+      "id": "1709",
+      "myname": "admin",
+      "myemail": "Vikasshekhawat7778@gmail.com",
+      "mycontact": "8769192408",
+      "mypassword": "17",
+      "mycomfirmpassword": "17",
+      "role": "admin"
+    },
+    {
+      "id": "1677",
+      "myname": "subadmin",
+      "myemail": "Vikasshekhawat777812@gmail.com",
+      "mycontact": "8769192408",
+      "mypassword": "171",
+      "mycomfirmpassword": "171",
+      "role": "subadmin"
+    }
+  ],
+  "Products": [
+    {
+      "id": "4592",
+      "productname": "Headphones",
+      "price": "1999.34",
+      "description": "Headphones connect to a signal source such as an audio amplifier, radio, CD player, portable media player, mobile phone, video game console, or electronic musical instrument, either directly using a cord, or using wireless technology such as Bluetooth, DECT or FM radio. The first headphones were developed in the late 19th century for use by switchboard operators, to keep their hands free. Initially, the audio quality was mediocre and a step forward was the invention of high fidelity headphones",
+      "imageurl": "https://cdn.thewirecutter.com/wp-content/media/2023/07/bluetoothheadphones-2048px-0876.jpg",
+      "category": "Headphones",
+      "stock": "250",
+      "rating": "4.5",
+      "color": "White Red Black",
+      "offer": "5%"
+    },
+    {
+      "id": "161e",
+      "productname": "JBL Charge 5 Wi-Fi",
+      "price": "17258.45",
+      "description": "If you prioritize audio performance and longer battery life, the JBL Charge 5 is the better speaker choice. The Charge 5's larger size produces a fuller bass response and louder volume output than the Flip 6. It also has a significantly longer battery life at 20 hours versus 12 hours on the Flip",
+      "imageurl": "https://vsprod.vijaysales.com/media/catalog/product/1/9/193762-image1_4.jpg?optimize=medium&fit=bounds&height=500&width=500",
+      "category": "SmartSpeakers",
+      "stock": "200",
+      "rating": "4.7",
+      "color": "Black Red Grey White",
+      "offer": "No offer"
+    },
+    {
+      "id": "218c",
+      "productname": "Hp Laptops",
+      "price": "55000",
+      "description": "By 1992 the laptop market was growing about three times faster than that of desktops.[29] By 1994 laptops were also more profitable than desktops, and accounted for one sixth of the personal computer market, up from one twentieth in 1990. They was so important that Dell risked, experts said, \"second-rate status\" in the industry for not having a strong laptop product line",
+      "imageurl": "https://cdn.thewirecutter.com/wp-content/media/2024/11/cheapgaminglaptops-2048px-7981.jpg",
+      "category": "Laptops",
+      "stock": "150",
+      "rating": "5",
+      "color": "All variety",
+      "offer": "21%"
+    },
+    {
+      "id": "3e2f",
+      "productname": "Sony Mirrorless Camera ",
+      "price": "20000",
+      "description": "A camera is an optical instrument that captures images or videos, either as still photographs or moving sequences. It works by focusing light through a lens onto a light-sensitive surface, which could be film or a digital sensor, to record the image. Cameras are used for a wide range of purposes, from personal photography and filmmaking to surveillance and scientific research. ",
+      "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvUvZjJRuTRLHd1uzsZj5vKEkMYXpily-RUg&s",
+      "category": "Cameras",
+      "stock": "100",
+      "rating": "3.5",
+      "color": "All Variety of Colors ",
+      "offer": "15%"
+    },
+    {
+      "id": "ba3e",
+      "productname": "Apple Watch",
+      "price": "999.99",
+      "description": "A smartwatch is a portable wearable computer that resembles a wristwatch. Most modern smartwatches are operated via a touchscreen, and rely on mobile apps that run on a connected device (such as a smartphone) in order to provide core functions.",
+      "imageurl": "https://img.freepik.com/premium-photo/white-smart-watch-white-background_662214-263.jpg",
+      "category": "Smartwatches",
+      "stock": "80",
+      "rating": "3.7",
+      "color": "orange",
+      "offer": "Not available"
+    },
+    {
+      "id": "192c",
+      "productname": "Iphone 16pro max",
+      "price": "134000",
+      "description": "Both Pro models come in four colors, the new Desert Titanium, Natural Titanium, White Titanium and Black Titanium, offering a lightweight, scratch-resistant exterior.[7] The Desert Titanium color replaced the Blue Titanium color used on the iPhone 15 Pro and iPhone 15 Pro Max.",
+      "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBdOgEghTzm_tC8TS_MXFI0YVGiNw2F57gVg&s",
+      "category": "Phones",
+      "stock": "50",
+      "rating": "4.5",
+      "color": "Only Black",
+      "offer": "11%"
+    },
+    {
+      "id": "9ec6",
+      "productname": "HP Pendrive",
+      "price": "1200",
+      "description": "4.6 (5 Reviews) ... Hikvision HS-USB-M200 NMPK 16GB USB 3.0 Type-A Pen drive, P348. ... Sandisk Cruzer Blade 16GB Pendrive, PEND00118. ... HP V236W 32GB USB 2.0 Silver Pen Drive. ... Kioxia U202 ELINO 64GB USB 2.0 Type A Pen drive, P2219. ... Kingston DTXM/64GB GDYHK 64GB USB 3.2 Type A Pen drive, P3030.",
+      "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzbbqtSqdsR3MsZ7i7eSbQwXog76VX30cEXw&s",
+      "category": "Pendrives",
+      "stock": "30",
+      "rating": "2.5",
+      "color": "Red only",
+      "offer": "Not Available"
+    },
+    {
+      "id": "d014",
+      "productname": "Mini Hand fans",
+      "price": "5555.45",
+      "description": "The Mini USB Fan is a small, portable device that a USB-C port can power. It is designed to provide a cool breeze on hot days, whether you are at home, at work, or on the go. The fan is equipped with IC protective plates that prevent it from damaging your phone or other electronic devices when connected.",
+      "imageurl": "https://deq64r0ss2hgl.cloudfront.net/images/opt/products_gallery_images/tiny-tornado-mini-hand-fan-66714850876507.jpg?v=8787",
+      "category": "Minifans",
+      "stock": "20",
+      "rating": "4.5",
+      "color": "White",
+      "offer": "2%"
+    }
+  ],
+  "Cart": [
+  ],
+  "Orders": [
+    {
+      "id": "3f03",
+      "name": "Aprita pareek",
+      "address": "Green city 16 Klawar Road",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zipcode": "302012",
+      "contact": "08769162408"
+    },
+    {
+      "id": "2223",
+      "name": "vikas singh",
+      "address": "Green city 16 Klawar Road",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zipcode": "302012",
+      "contact": "08769162408"
+    },
+    {
+      "id": "a78d",
+      "name": "vikas singh",
+      "address": "Green city 16 Klawar Road",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zipcode": "302012",
+      "contact": "08769162408"
+    },
+    {
+      "id": "aeac",
+      "name": "vikas singh",
+      "address": "Green city 16 Klawar Road",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zipcode": "302012",
+      "contact": "08769162408"
+    }
+  ],
+  "Feedback": [
+    {
+      "id": "853f",
+      "name": "vikas singh shekhawat",
+      "email": "vikasshekhawat7778@gmail.com",
+      "gadget": "smartwatch",
+      "rating": "5",
+      "comments": "This product is awesome\nWorth it please go for it guys...."
+    }
+  ],
+  "Enquiry": [
+    {
+      "id": "fa2e",
+      "name": "Deeoak Sharma",
+      "email": "DeepakSharma123@gmail.com",
+      "phone": "08769162408",
+      "subject": "Want to know new updtes",
+      "message": "Hello..!\ni am trying to find new products but there is old products\nplease reply if there is any solution"
+    }
+  ],
+  "Replies": [
+    {
+      "id": "3950",
+      "Replies": "Sorry for the inconvience.but i will be sure your product will be available soon..Thanks for patience"
+    }
+  ]
+}
